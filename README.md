@@ -1,8 +1,8 @@
 # 🧠 Daily Dev Practice
 
-Welcome to my **daily development practice** repository. This is a personal commitment to improve my skills through consistent daily coding, note-taking, and small projects.
+Welcome to my daily development practice repository — my personal space to code every day, strengthen problem-solving skills, and document my learning journey.
 
-Whether it’s solving algorithmic problems, experimenting with new Python features, or documenting what I learn from courses, this repo is my evolving developer journal. 🌱
+Here, you’ll find solutions to coding challenges (especially LeetCode), Python experiments, and notes from various courses and projects. This is my evolving developer journal.🌱
 
 ---
 
@@ -18,7 +18,29 @@ Whether it’s solving algorithmic problems, experimenting with new Python featu
 
 ## 📁 Structure
 
-The repository is organized by **date** and/or **topic**:
+📂 daily-dev-practice/
+│
+├── 📂 leetcode/
+│   ├── README.md                  
+│   ├── 📂 easy/
+│   │   ├── two-sum.py
+│   │   ├── valid-parentheses.py
+│   │   └── ...
+│   ├── 📂 medium/
+│   │   ├── add-two-numbers.py
+│   │   └── ...
+│   ├── 📂 hard/
+│   │   └── ...
+│   └── 📂 notes/                   
+│       ├── two-sum.md
+│       ├── valid-parentheses.md
+│       └── ...
+│
+├── 📂 python-practice/
+├── 📂 algorithms/
+├── progress.md
+└── README.md
+
 
 ---
 
@@ -32,6 +54,19 @@ The repository is organized by **date** and/or **topic**:
 - Script Automation Projects
 
 ---
+
+## 📝 About the LeetCode Section
+Each LeetCode solution includes:
+
+Problem number & title
+
+Difficulty level
+
+Problem link
+
+Python solution with docstring & complexity analysis
+
+Optional explanation in notes/ folder
 
 ## 🚦 Progress Log
 
